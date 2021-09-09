@@ -3,7 +3,7 @@ package com.codinginflow.simplecachingexample.features.restaurants
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
-import androidx.core.viewisVisible
+import androidx.core.view.isVisible
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.codinginflow.simplecachingexample.R
